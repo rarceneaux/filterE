@@ -1,0 +1,37 @@
+/* body{
+  background-color: lightgray;
+} */
+
+#div2{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.btn{
+  margin: 25px;
+  border-radius: 25px;
+}
+
+#div3,#div4{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card-body{
+  background-color: lightgray;
+}
+
+/* .card-img-top{
+  border-radius: 45px;
+  
+} */
+
+.card{
+  padding: 25px;
+  background-color: darkgray;
+  margin: 25px;
+}
